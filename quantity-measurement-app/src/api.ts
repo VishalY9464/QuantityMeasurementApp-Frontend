@@ -1,4 +1,4 @@
-var BASE_URL = 'http://localhost:8080';
+var BASE_URL = 'http://43.204.111.81:8080';
 
 // ── Login ────────────────────────────────────────────────────────
 export async function loginApi(email: string, password: string) {
